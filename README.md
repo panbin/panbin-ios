@@ -177,6 +177,7 @@ IOS开源项目，期待大家和我们一起共同维护
 - [深度学习@](#深度学习)
 - [前端@](#前端)
 - [后台@](#后台)
+- [他人总结](#他人总结)
 
 #### 具体内容 =============================
 
@@ -2266,3 +2267,9 @@ iOS和OSX原生粒子系统效果图搭载QuartzCore
 
 * [jrswizzle](https://github.com/rentzsch/jrswizzle) - runtime实现的Method Swizzling第三方框架.
 * [jrswizzle介绍](https://www.valiantcat.cn/index.php/2017/11/03/53.html?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+
+#### 他人总结
+ * [awesome-ios](https://github.com/vsouza/awesome-ios) - <font color=#FF0000 >Awesome可能是GitHub上寻找和整理开源项目最好的方式</font> 。
+ * [awesome-ios-ui](https://github.com/cjwirth/awesome-ios-ui) - <font color=#FF0000 >Awesome可能是GitHub上寻找和整理开源项目最好的方式</font> 。
+ * [awesome-ios-cn](https://github.com/jobbole/awesome-ios-cn) - <font color=#FF0000 >Awesome可能是GitHub上寻找和整理开源项目最好的方式</font> 。
+ * [awesome-ios-animation](https://github.com/ameizi/awesome-ios-animation) - <font color=#FF0000 >Awesome可能是GitHub上寻找和整理开源项目最好的方式</font> 。 
