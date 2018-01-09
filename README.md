@@ -5,7 +5,7 @@ IOS开源项目，期待大家和我们一起共同维护
 
 ### 说明
 
-以下总结大部分来至于 [TimLiu-iOS] (https://github.com/Tim9Liu9/TimLiu-iOS) 的总结，欢迎大家查看[原版](https://github.com/Tim9Liu9/TimLiu-iOS)
+以下总结大部分来至于 [TimLiu-iOS] (https://github.com/Tim9Liu9/TimLiu-iOS) ，欢迎大家查看[原版](https://github.com/Tim9Liu9/TimLiu-iOS)
 
 ### Swift版本
 [Swift版本点击这里](https://github.com/Tim9Liu9/TimLiu-iOS/blob/master/Swift.md)
