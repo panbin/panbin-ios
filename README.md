@@ -403,6 +403,7 @@ IOS开源项目，期待大家和我们一起共同维护
 * [URLPreview](https://github.com/itsmeichigo/URLPreview) - An NSURL extension for showing preview info of webpages :large_orange_diamond: [e]
 * [AXWebViewController](https://github.com/devedbox/AXWebViewController) - AXWebViewController is a webViewController to browse web content inside applications.
 * [LYWebviewController](https://github.com/halohily/LYWebviewController) - 基于UIWebview-简书文章阅读页面的模仿demo.
+* [UIWebViewLocalCache](https://github.com/lzhlewis2015/UIWebViewLocalCache) - UIWebView离线缓存Demo.
 
 #### 网络解析@
 #### JSON@
@@ -794,6 +795,7 @@ IOS开源项目，期待大家和我们一起共同维护
 * [WSImagePicker](https://github.com/wsjtwzs/WSImagePicker) - 高性能多选图片库，类似于微信发布朋友圈中 ‘获取相册及拍照’模块.
 * [JTSImageViewController](https://github.com/jaredsinclair/JTSImageViewController) - 图片浏览.
 * [SGPhotoBrowser](https://github.com/Soulghost/SGPhotoBrowser) - 图片浏览.
+* [MLPhotoLib](https://github.com/panbin/MLPhotoLib) - A New PhotoLib, Compatible with iOS7+, Simple, lightweight.
 
 #### 图像缓存@
 
@@ -871,6 +873,7 @@ IOS开源项目，期待大家和我们一起共同维护
 * [Material-Controls-For-iOS](https://github.com/fpt-software/Material-Controls-For-iOS) - 大神模仿谷歌做的各种各样的iOS原生特效控件，非常全面.
 * [Form](https://github.com/hyperoslo/Form) - Form 是一个方便开发者创建表单填写工作的 UI 库.
 * [material-components-ios](https://github.com/material-components/material-components-ios) - 基于 Material Design 的组件库，包含iOS、Android、Web 三个平台的组件库和调用方法.
+* [UICollectionSwiper](https://github.com/panbin/UICollectionSwiper) - UICollection 左右滑动删除、新增操作
 
 #### 日历三方库@
 
@@ -1273,6 +1276,7 @@ IOS开源项目，期待大家和我们一起共同维护
 #### 工具@
 #### 综合@
 * [sstoolkit](https://github.com/soffes/sstoolkit) - 一个不错的工具包，提供各种比如编码、加密、字符串处理等等东西，还提供了一些不错的自定义控件，并且文档非常齐全
+* [TestLog](https://github.com/yohunl/TestLog) - 演示实时浏览器展示APP的日志
 
 #### 提醒用户评分@
 
@@ -2017,6 +2021,7 @@ iOS和OSX原生粒子系统效果图搭载QuartzCore
 * [Hydro.network](https://github.com/CatchChat/Hydro.network) - [Hydro.network 的开发旅程](http://blog.zhowkev.in/2015/03/09/hydro-network-de-kai-fa-lu-cheng/), [gitcafe](https://gitcafe.com/Catch/Hydro.network).
 * [Potatso](https://github.com/shadowsocks/Potatso) - 基于iOS 9 的 NetworkExtension 框架实现 Shadowsocks 代理，由国人开发，虽然还有很多问题不过确实值得期待.
 * [forum](https://github.com/getlantern/forum) - 蓝灯(Lantern)官方论坛.
+* [setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) - IPsec VPN 服务器一键安装脚本.
 
 #### 好的文章@
 
@@ -2187,6 +2192,7 @@ iOS和OSX原生粒子系统效果图搭载QuartzCore
 [煲仔饭](http://ivoryxiong.org/) | <http://ivoryxiong.org/feed.xml>
 [里脊串的开发随笔](http://adad184.com) | <http://adad184.com/atom.xml>
 [ibireme伽蓝之堂](http://blog.ibireme.com/) | <http://blog.ibireme.com/feed/>
+[iOS最佳实践](https://github.com/samlaudev/iOS-Best-Practices) | <https://github.com/samlaudev/iOS-Best-Practices>
 
 #### CodeLiararyWebSite@
 
