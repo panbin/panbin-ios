@@ -1,20 +1,18 @@
-# TimLiu-iOS
+IOS开源项目，期待大家和我们一起共同维护
+==============
+* github排名榜单 [https://github.com/trending](https://github.com/trending)
+* github搜索榜单：[https://github.com/search](https://github.com/search)
 
-[Objective-C版本点击这里](https://github.com/Tim9Liu9/TimLiu-iOS/blob/master/README.md)
-欢迎加入QQ群交流:  594119878
+### 说明
 
-### About
+以下总结大部分来至于 [TimLiu-iOS] (https://github.com/Tim9Liu9/TimLiu-iOS) ，欢迎大家查看[原版](https://github.com/Tim9Liu9/TimLiu-iOS)
 
-A curated list of iOS objective-C ecosystem.
-
-### How to Use
-
-- Simply press <kbd>command</kbd> + <kbd>F</kbd> + <kbd>"xxx@"</kbd> to search for a keyword
-- Go through our *Content Menu*
+### OC版本
+[OC版本点击这里](https://github.com/panbin/panbin-ios/blob/master/README.md)
 
 ### Feedback
 
-期待大家和我们一起共同维护，同时也期望大家随时能提出宝贵的意见（直接提交issues即可）。请广大网友只按照目录结构（即使目录结构有问题）添加三方库，并提交pull request。目录问题大家提出issues后楼主会及时更改的。
+期望大家随时能提出宝贵的意见（直接提交issues即可）。请广大网友只按照目录结构（即使目录结构有问题）添加三方库，并提交pull request。目录问题大家提出issues后楼主会及时更改的。
 
 ## 目录
 - [Swift学习资料@](#swift学习资料)
